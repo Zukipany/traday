@@ -79,7 +79,7 @@ job, woken in turn by the Autopilot. The **Agents** page in the dashboard and th
 
 Each card shows what that agent is doing right now ("Watching AMD, NVDA every 20 s", "Blocked MSFT:
 2 positions open"). Click one for everything about it: its job, your own settings for it, when it
-works, what it said in the example trade, the Claude phrase that reaches it, and its code.
+works, what it said in the example trade, and its code.
 
 **Watch one trade** plays the reel's TSLA morning candle by candle. Each agent tells its part, and
 every number comes from traday's own engine running that morning:
@@ -201,8 +201,8 @@ trades" is a highlight, not a track record.
 
 ## Background
 
-This started from an @opusjake reel about "the Trader skill", a free pack of Claude skills
-(github.com/Jakeschincariol/trader-skill). The reel shows a day-trading version with 11 skills drawn
+The idea came from watching an @opusjake reel about "the Trader skill", a free pack of trading
+skills (github.com/Jakeschincariol/trader-skill). The reel shows a day-trading version with 11 skills drawn
 as pixel critters (Chart Scanner, News Monitor, Entry Timer, Exit Planner, Time Machine, Risk
 Manager, Order Executor and more); traday's [11 agents](#the-11-agents) are drawn after them. The public
 repository today is a different, investing-oriented v1.0 that only prepares orders for Alpaca or
